@@ -11,9 +11,9 @@ The channels on the platform are intended to serve as communication channels for
  
 Upvote and downvote can be acquired by swapping governance tokens. This means that voting power will by default be proportional to the stake owners have in organizations.
  
-If a user creates an informational post, the post has no expiry time, and voting can be seen as a measure of quality.
+If an user creates an informational post, the post has no expiry time, and voting can be seen as a measure of quality.
  
-If a user creates a post to perform an action within an organization, then the vote decides whether the action should happen or not.
+If an user creates a post to perform an action within an organization, then the vote decides whether the action should happen or not.
  
 ## Channels for non-DAOs (social media channels)
 Channels do not necessarily have to be associated with a DAO. The protocol is providing a platform wide utility token that can be used on non-DAO channels (for voting) and on DAO channels that allow non-owners to participate.
